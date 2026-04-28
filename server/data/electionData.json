@@ -1,0 +1,44 @@
+{
+  "Telangana": {
+    "status": "completed",
+    "electionDate": "2023-11-30",
+    "winner": "Revanth Reddy",
+    "party": "INC",
+    "voteShare": "48%",
+    "constituencyType": "Assembly"
+  },
+  "Maharashtra": {
+    "status": "upcoming",
+    "electionDate": "2024-10-15",
+    "parties": ["BJP", "INC", "Shiv Sena"],
+    "constituencyType": "Assembly"
+  },
+  "Karnataka": {
+    "status": "completed",
+    "electionDate": "2023-05-10",
+    "winner": "Siddaramaiah",
+    "party": "INC",
+    "voteShare": "42%",
+    "constituencyType": "Assembly"
+  },
+  "Delhi": {
+    "status": "upcoming",
+    "electionDate": "2025-02-10",
+    "parties": ["AAP", "BJP", "INC"],
+    "constituencyType": "Assembly"
+  },
+  "Andhra Pradesh": {
+    "status": "completed",
+    "electionDate": "2024-05-13",
+    "winner": "N. Chandrababu Naidu",
+    "party": "TDP",
+    "voteShare": "45%",
+    "constituencyType": "Assembly"
+  },
+  "Tamil Nadu": {
+    "status": "upcoming",
+    "electionDate": "2026-04-01",
+    "parties": ["DMK", "AIADMK", "BJP", "INC"],
+    "constituencyType": "Assembly"
+  }
+}
